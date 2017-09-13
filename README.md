@@ -1,2 +1,2 @@
 # python
-My python works
+This Repo contains all the python scripts written by me
