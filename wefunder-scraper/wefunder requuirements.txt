@@ -1,0 +1,17 @@
+
+- First and Last name 
+- All links [Twitter, FB, LinkedIn] 
+- Location
+- Profile Description
+- All of their investments
+
+https://wefunder.com/api/{company name}/investors
+
+## Requirements for running python script
+
+-Requests
+-bs4
+
+
+
+
